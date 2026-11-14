@@ -1,7 +1,3 @@
-{
-2 years ago
-
-add analytics functionality
   "manifest_version": 3,
   "name": "YouTube Sentiment Analysis",
   "version": "1.0",
